@@ -1,0 +1,44 @@
+Extra related project:  
+    1.policy creation and management
+    2. Claims processing
+
+    3. Payment :Process: Users should be able to pay insurance premiums online through various payment methods such as credit/debit cards, bank transfers, or digital wallets. Payment processing should be secure and reliable.
+Implementation: Integrate with payment gateways such as Stripe, PayPal, or Braintree to handle online payments. Implement views and templates for displaying payment options and processing payment requests securely.
+    
+4.Remainder and Notifications:Process: Users should receive timely notifications and reminders for upcoming policy renewals, premium due dates, claim updates, and other important events. Notifications can be sent via email, SMS, or in-app messages.
+Implementation: Implement a notification system using Django signals or third-party packages such as Django Channels or Celery. Set up scheduled tasks to send automated reminders based on predefined triggers and user preferences.
+
+5.
+
+
+
+
+
+SOmething extra:
+ 1. AI/ML model integration using django
+ 2. Payment Integration
+ 3. Using docker + Kubernetes deployment
+ 4. Unique features
+ 5. Advance Auth ,api integration
+ 6. Include django max features
+ 7. Deployment
+
+
+Resource:Insurance management system:  https://github.com/sumitkumar1503/insurancemanagement
+Pinterest cloneReact+django) : https://github.com/imricardoramos/pinterest-clone
+
+Music player using Django: Music Streaming Service
+Evoting system
+Location based web-app
+
+
+
+
+register as : username:dahal@gmail.com
+              pass: dahal1234
+
+
+
+              Admin: email: prabin123@gmail.com
+                  password: admin123abcd
+                  username:acer
